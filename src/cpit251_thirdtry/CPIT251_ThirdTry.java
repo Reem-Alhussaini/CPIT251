@@ -14,7 +14,7 @@ public class CPIT251_ThirdTry {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("this is the third attempt to link a repo to netbeans");
     }
     
 }
